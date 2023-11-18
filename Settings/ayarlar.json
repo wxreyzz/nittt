@@ -1,0 +1,76 @@
+{
+    "token": "",
+
+
+    "BotOynuyor": "/yardım",
+    "BotStatus": "online",
+
+    "KüfürEngellememeRolID": "977292242677035059",
+    "ReklamEngellememeRolID": "977292242677035059",
+
+
+    "GirisKanal": "1116685178136440833",
+    "CikisKanal": "1057978426075648030",
+
+
+    "SesKanali1": "990362728734556214",
+    "SesKanali2": "1065927497541222410",
+
+
+    "KanalaEmoji1": "1116685178136440833",
+    "KanalaEmoji2": "1116681339366817894",
+    "KanalaEmoji3": "1116692139003355166",
+    "KanalaEmoji4": "1045777414594232480",
+    "KanalaEmoji8": "1057972196129128528",
+    "KanalaEmoji9": "1116691510323327026",
+    "KanalaEmoji13": "1116702913243385926",
+    "KanalaEmoji14": "1116703042314706964",
+    "KanalaEmoji15": "1116703325568647328",
+    "KanalaEmoji16": "1116703530309406761",
+    "KanalaEmoji17": "1116703594905866292",
+    "KanalaEmoji18": "1116703672244641794",
+    "KanalaEmoji19": "1116703731124273252",
+    "KanalaEmoji21": "1116691469433045043",
+
+
+    "BotEtiketCevap": "Her hangi bir sorunun varsa  <#1116718217453391942>  kanalından destek talebi açabilirsin.",
+    "ÖzeldenHoşGeldinMesaj": "<a:pikachuselam_arvis0011:997610147167870986> **Selam!** aramıza hoş geldin \n\n<a:ziplayankalp_arvis0011:997610156659580958> Keyifli vakit geçirmen dileğiyle...",
+
+
+    "AFKModOff": "**AFK** modundan çıkış yaptın, hoş geldinn",
+
+
+    "DestekKanal": "1116718217453391942",
+    "DestekYetkilisi": "1116682266949730427",
+    "Transcript": "1116683976975859742",
+    "KanalKategori": "1116691832282288179",
+
+    "DestekTalebiAcButonText": "Destek Talebi Oluştur",
+    "DestekTalebiAcButonEmoji": "<a:4dkalp_arvis0011:1051894482381062164>",
+
+    "KategoriButon1": "Üye Bildir",
+    "KategoriButon1Emoji": "<:uyebildir_arvis0011:1052278326535917718>",
+    "KategoriButon1CustomID": "Üye Bildir",
+
+    "KategoriButon2": "İstek Öneri",
+    "KategoriButon2Emoji": "<:istekoneri_arvis0011:1052278328280764536>",
+    "KategoriButon2CustomID": "İstek Öneri",
+
+    "KategoriButon3": "Sunucu Şikayet",
+    "KategoriButon3Emoji": "<:sikayet_arvis0011:1051904216060407929>",
+    "KategoriButon3CustomID": "Sunucu Şikayet",
+
+    "DestekIcEmbedDesc": "## Merhaba, bize ulaştığın için teşekkür ederiz! \n\nLütfen sabırla yetkilileri bekle, bekleme süresi **10 Dakika**yı geçerse aktif bir yetkiliyi etiketleyebilirsin. <:aesthetickalp_arvis0011:1058007850439426048>",
+
+    "DestekIcKapatButonEmoji": "<:kapat_arvis0011:1051904224113471599>",
+    "DestekIcKapatButonText": "Desteği Kapat",
+
+    "DestekIcYedekButonEmoji": "<:yedek_arvis0011:1051904222150529094>",
+    "DestekIcYedekButonText": "Transcript",
+
+    "DestekIcKanaliSilButonEmoji": "<:cop_arvis0011:1112056619711352932>",
+    "DestekIcKanaliSilButonText": "Kanalı Sil",
+
+    "DestekKapatEmbedDesc": "Destek talebi **kapatıldı.**",
+    "KanaliSilEmbedDesc": "Kanal, **10 saniye** içinde silinecek."
+}
